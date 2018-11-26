@@ -1,0 +1,14 @@
+{
+	"type": "mashup",
+	"name": "my-first-mashup",
+	"version": "0.1.0",
+	"description": "Basic single page mashup",
+	"homepage": "https://github.com/sunpar/mashup-development",
+	"author": "Sundeep Paruchuri",
+	"keywords": "qlik-sense, mashup",
+	"license": "",
+	"repository": "https://github.com/sunpar/mashup-development",
+	"dependencies": {
+		"qlik-sense": ">=2.1.x"
+	}
+}
