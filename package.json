@@ -1,0 +1,27 @@
+{
+  "name": "mashup-builder",
+  "version": "0.0.1",
+  "description": "A template for mashup building",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/build",
+    "watch": "node scripts/build -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunpar/mashup-development.git"
+  },
+  "author": "Sundeep Paruchuri",
+  "license": "ISC",
+  "homepage": "https://github.com/sunpar/mashup-development#readme",
+  "devDependencies": {
+    "crocks": "^0.11.1",
+    "dotenv": "^6.1.0",
+    "qext-scripts": "^0.6.0"
+  },
+  "dependencies": {
+    "ramda": "^0.25.0",
+    "rxjs": "^6.3.3"
+  }
+}
